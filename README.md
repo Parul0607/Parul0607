@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parul</h1>
-<h3 align="center">A passionate frontend developer & a coding enthusiast</h3>
+<h3 align="center">A CSE Undergraduate at MANIT Bhopal</h3>
 
 
 - 🌱 I’m currently learning **Nodejs, Javascript**
