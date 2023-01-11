@@ -2,11 +2,11 @@
 <h3 align="center">A CSE Undergraduate at MANIT Bhopal</h3>
 
 
-- 🌱 I’m currently learning **Nodejs, Javascript**
+-  I’m currently learning **Nodejs, Javascript**
 
-- 💬 Ask me about **Frontend Development**
+-  Ask me about **Frontend Development**
 
-- 📫 How to reach me **paruls060702@gmail.com**
+-  How to reach me **paruls060702@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
